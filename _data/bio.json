@@ -5,7 +5,7 @@
     "picture": "https://techfolios.github.io/images/will.png",
     "email": "will@partsandcrafts.org",
     "phone": "617-501-5793",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://wmacfarl.github.io",
     "summary": "I am the founder and co-director of Parts and Crafts, a youth and community makerspace in Somerville, MA.  I design and facilitate spaces, communities and experiences where people of all ages can build, play, make, teach, and learn together.",
     "location": {
       "address": "",
@@ -15,7 +15,36 @@
       "region": "Massachusetts"
     },
     "profiles": [
-    
+    {	    
+        "network": "linkedin",	
+        "username": "wmacfarl@gmail.com",	
+        "url": "https://www.linkedin.com/in/william-macfarlane-72b73913/"	
+    },
+    {	    
+        "network": "instagram",	
+        "username": "parts_and_crafts",	
+        "url": "https://www.instagram.com/parts_and_crafts/"	
+    },
+    {	    
+        "network": "youtube",	
+        "username": "Making Things",	
+        "url": "https://www.youtube.com/channel/UCJeZTmYPAYSzHIGaKhW6iJw"	
+    },          
+    {	    
+        "network": "itch.io",	
+        "username": "whimsysystems",	
+        "url": "https://whimsysystems.itch.io/"	
+    },
+          {	    
+        "network": "scratch",	
+        "username": "wmacfarl",	
+        "url": "https://scratch.mit.edu/users/wmacfarl/"	
+    },
+      {
+        "network": "publiclab",
+        "username": "partsandcrafts",
+        "url": "https://publiclab.org/profile/partsandcrafts"
+      }
     ]
   },
   "interests": [
