@@ -1,40 +1,21 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "name": "William Macfarlane",
+    "label": "Teacher, Learner, MAker",
+    "picture": "https://techfolios.github.io/template/images/will.png",
+    "email": "will@partsandcrafts.org",
+    "phone": "617-501-5793",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am the founder and co-director of Parts and Crafts, a youth and community makerspace in Somerville, MA.  I design and facilitate spaces, communities and experiences where people of all ages can build, play, make, teach, and learn together.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "02145",
+      "city": "Somerville",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Massachusetts"
     },
     "profiles": [
-      {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+    
     ]
   },
   "interests": [
