@@ -5,7 +5,7 @@
 {% endfor %}
 
 {% for profile in site.data.bio.basics.custom_profiles %}
-   <a href="{{ profile.url }}"> <img style="height:1em; width:1em; margin:.5em;" src="images/{{ profile.network | downcase }}_blue.svg"</img> </a>
+   <a href="{{ profile.url }}"> <img style="height:2em; width:2em; margin:.5em;" src="images/{{ profile.network | downcase }}.svg"</img> </a>
 {% endfor %}
 
 {% if site.data.bio.basics.email %}
