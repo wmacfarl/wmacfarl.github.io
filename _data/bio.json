@@ -29,22 +29,7 @@
         "network": "youtube",	
         "username": "Making Things",	
         "url": "https://www.youtube.com/channel/UCJeZTmYPAYSzHIGaKhW6iJw"	
-    },          
-    {	    
-        "network": "gamepad",	
-        "username": "whimsysystems",	
-        "url": "https://whimsysystems.itch.io/"	
-    },
-    {
-        "network": "flask",
-        "username": "partsandcrafts",
-        "url": "https://publiclab.org/profile/partsandcrafts"
-    },
-    {	    
-        "network": "code",	
-        "username": "wmacfarl",	
-        "url": "https://scratch.mit.edu/users/wmacfarl/"	
-    },
+    }],
        "custom_profiles": [  
     {	    
         "network": "itchio",	
@@ -61,7 +46,6 @@
         "username": "wmacfarl",	
         "url": "https://scratch.mit.edu/users/wmacfarl/"	
     }
-    ]
     ]
   },
   "interests": [
