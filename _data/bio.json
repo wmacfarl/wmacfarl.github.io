@@ -44,7 +44,24 @@
         "network": "code",	
         "username": "wmacfarl",	
         "url": "https://scratch.mit.edu/users/wmacfarl/"	
+    },
+       "custom_profiles": [  
+    {	    
+        "network": "itchio",	
+        "username": "whimsysystems",	
+        "url": "https://whimsysystems.itch.io/"	
+    },
+    {
+        "network": "publiclab",
+        "username": "partsandcrafts",
+        "url": "https://publiclab.org/profile/partsandcrafts"
+    },
+    {	    
+        "network": "scratch",	
+        "username": "wmacfarl",	
+        "url": "https://scratch.mit.edu/users/wmacfarl/"	
     }
+    ]
     ]
   },
   "interests": [
