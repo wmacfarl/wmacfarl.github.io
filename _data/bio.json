@@ -5,7 +5,7 @@
     "picture": "https://wmacfarl.github.io/images/will.png",
     "email": "will@partsandcrafts.org",
     "phone": "617-501-5793",
-    "website": "https://wmacfarl.github.io",
+    "website": "https://partsandcrafts.org",
     "summary": "I am the founder and co-director of Parts and Crafts, a youth and community makerspace in Somerville, MA.  I design and facilitate spaces, communities and experiences where people of all ages can build, play, make, teach, and learn together.",
     "location": {
       "address": "",
@@ -65,54 +65,22 @@
       ]
     }
   ],
-  "skills": [
+  "Education Experience": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "company": "Parts and Crafts",
+      "position": "Founder/Co-Directo",
+      "website": "https://www.partsandcrafts.org",
+      "startDate": "2009-1-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Founded and directed a youth and community makerspace and alternative education center serving 1100 children annually in a variety of programs in and out of school.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Designed  and facillitated student-directed creative learning spaces in the form of school-vacation camps, afterschool and evening open-shop programs, in-school workshops and partnerships, and a five day/week school-alternative program.",
+        "Taught classes and and workshops and developed cross-disciplinary curriculum on art, technology, design, and other topics to students age 7 to adult.",
+        "Developed and managed a $500,000 annual organizational budget through a mixture of grant-writing, fundraising, project-kit sales and program revenue.",
+        "Co-designed organizational policies, practices and procedures with a team of 5 other full-time program staff.",
+        "Co-managed a community wood-shop and digital fabrication lab and developed practices and procedures governing youth and community tool use.",
+        "Designed hands-on, project-based tinkering and building professional development workshops for educators.",
+        "Participated in and bottom-lined every aspect of running and managing a small non-profit, from accounting to IT to licensing to community management to building maintenance."
       ]
     },
     {
@@ -167,6 +135,43 @@
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
+      ]
+    }
+  ],
+   "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "references": [
