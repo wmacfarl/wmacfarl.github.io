@@ -35,16 +35,16 @@
         "username": "whimsysystems",	
         "url": "https://whimsysystems.itch.io/"	
     },
-          {	    
-        "network": "bat",	
-        "username": "wmacfarl",	
-        "url": "https://scratch.mit.edu/users/wmacfarl/"	
-    },
-      {
+    {
         "network": "flask",
         "username": "partsandcrafts",
         "url": "https://publiclab.org/profile/partsandcrafts"
-      }
+    },
+    {	    
+        "network": "cat",	
+        "username": "wmacfarl",	
+        "url": "https://scratch.mit.edu/users/wmacfarl/"	
+    }
     ]
   },
   "interests": [
