@@ -4,8 +4,10 @@
    <a href="{{ profile.url }}"> <i class="big {{ profile.network | downcase }} icon icon-color"></i> </a>
 {% endfor %}
 
+{% for profile in site.data.bio.basics.custom_profiles %}
+   <a href="{{ profile.url }}"> <img src="{{ profile.network | downcase }}_icon.png"</img> </a>
+{% endfor %}
+
 {% if site.data.bio.basics.email %}
   <a href="mailto:{{ site.data.bio.basics.email }}"> <i class="big mail square icon icon-color"></i> </a>
 {% endif %}
-
-<p>this is a test 2 paragraph</p>
