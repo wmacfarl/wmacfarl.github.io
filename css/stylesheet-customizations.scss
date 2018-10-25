@@ -20,16 +20,6 @@ body {
   // color: silver;
 }
 
-@font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?n7o6ct');
-  src:  url('fonts/icomoon.eot?n7o6ct#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?n7o6ct') format('truetype'),
-    url('fonts/icomoon.woff?n7o6ct') format('woff'),
-    url('fonts/icomoon.svg?n7o6ct#icomoon') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
