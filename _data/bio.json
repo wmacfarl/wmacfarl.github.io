@@ -112,17 +112,41 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "“Bringing Making Into Education” Panel",
+      "date": "2/8/2017",
+      "awarder": "Roxbury Innovation Center",
+      "summary": "Panelist in discussion on how the “maker movement” can support the development of self-directed learners."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Hack My Nonprofit: Public Lab",
+      "date": "12/8/2016",
+      "summary": "Panelist and presenter in discussion on making, citizen science, and breaking the barrier between teachers and learners."
+    },
+    {
+      "title": "Free Schools, Makerspaces, and Self-Directed Learning",
+      "date": "10/27/2016",
+      "awarder": "EMW Tech and Ethics Salon",
+      "summary": "Co-presenter with Katie Gradowski on on Parts and Crafts, self-directed education, and the “maker movement” in schools with a focus on diversity and accessibility."
+    },
+    {
+      "title": "Some Formal Mechanisms to Support Informal Learning",
+      "date": "3/21/2015",
+      "awarder": "LibrePlanet 2015",
+      "summary": "A short talk on the structure and design of self-directed learning spaces and communities.  Presented as part of a series of curated lightning talks organized by Molly DeBlanc entitled 'Some People Worth Listening To.'"
+    },
+    {
+      "title": "Start Right Now!",
+      "date": "3/24/2013",
+      "awarder": "AERO Conference 2013",
+      "summary": "Panelist in discussion facillitated by Ken Danforth on the logistics and process of starting school alternatives."
+    },
+    {
+      "title": "“How To Start a Youth Makerspace”",
+      "date": "3/13/2013",
+      "awarder": "Make-To-Learn Symposium",
+      "summary": "Panelist in discussion facillitated by Jeff Sturges on how (and why!) to start a youth makerspace in your community."
     }
+
   ],
   "skills": [
     {
@@ -151,11 +175,11 @@
   ],
    "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Massachusetts Institute of Technology",
+      "area": "",
+      "studyType": "non-degree",
+      "startDate": "2001-09-01",
+      "endDate": "2002-5-01",
       "gpa": "",
       "courses": [
       ]
