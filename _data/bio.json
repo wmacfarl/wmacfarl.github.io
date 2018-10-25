@@ -68,7 +68,7 @@
   "work": [
     {
       "company": "Parts and Crafts",
-      "position": "Founder/Co-Directo",
+      "position": "Founder/Co-Director",
       "website": "https://www.partsandcrafts.org",
       "startDate": "2009-1-01",
       "endDate": "Present",
@@ -84,44 +84,31 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Public Laboratory for Open Technology and Science",
+      "position": "Organizer",
+      "website": "https://publiclab.org/",
+      "startDate": "2011-01-01",
+      "endDate": "Present",
+      "summary": "Volunteer organizer for DIY Civic Science",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Ran community workshops and outreach events focused on developing and using DIY open-hardware environmental monitoring tools to citizen science and environmental justice initiatives.",
+        "Developed project documentation and workshop curriculum supporting the building and use of these tools."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "MOS Architects",
+      "website": "http://mos-office.net",
       "position": "Software Developer",
       "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "endDate": "2010-01-01",
+      "summary": "Developer for in-house software projects",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Designed and developed small software design tools built around computational geometry, complexity, and models of physical processes.",
+        "Developed a combination public-face/private collaboration tool/website to facillitate information sharing between collaborators and the public."
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
