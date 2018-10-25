@@ -31,17 +31,17 @@
         "url": "https://www.youtube.com/channel/UCJeZTmYPAYSzHIGaKhW6iJw"	
     },          
     {	    
-        "network": "itch.io",	
+        "network": "gamepad",	
         "username": "whimsysystems",	
         "url": "https://whimsysystems.itch.io/"	
     },
           {	    
-        "network": "scratch",	
+        "network": "cat",	
         "username": "wmacfarl",	
         "url": "https://scratch.mit.edu/users/wmacfarl/"	
     },
       {
-        "network": "publiclab",
+        "network": "flask",
         "username": "partsandcrafts",
         "url": "https://publiclab.org/profile/partsandcrafts"
       }
