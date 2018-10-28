@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mosstack.png
+image: images/mosstack.jpg
 title: STACK
 permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
