@@ -1,10 +1,9 @@
-
 ---
 layout: project
 type: project
 image: images/cotton-square.png
 title: Test Project
-permalink: projects/test
+permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-13
 labels:
