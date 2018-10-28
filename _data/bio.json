@@ -150,26 +150,34 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Workshop + Experience Design",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Mentoring",
+        "Project documentation",
+        "Workshop and curriculum creation",
+        "Proogram and experience design"       
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Unity/C#",
+        "Processing/Java",
+        "P5.js/Javascript",
+        "Arduino/Micro:Bit/Raspberry Pi"
+      ]
+    },
+    {
+      "name": "Fabrication",
+      "level": "",
+      "keywords": [
+        "Inkscape",
+        "OpenSCAD",
+        "Laser cutting",
+        "3D printing",
+        "Basic woodworking"
       ]
     }
   ],
