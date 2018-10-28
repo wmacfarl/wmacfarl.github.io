@@ -10,5 +10,5 @@ date: 2009-04-13
 labels:
   - Processing
   - Design
-summary: A particle-flow simulation for procedural design.
+summary: Developed for <a href="http://mos.nyc">MOS</a>.  A particle-flow simulation for procedural design.
 ---
