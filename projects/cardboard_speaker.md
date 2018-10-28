@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/speaker.png
 title: Cardboard Speaker
-permalink: projects/test_project
+permalink: projects/speaker
 # All dates must be YYYY-MM-DD format!
 date: 2017-07-28
 labels:
