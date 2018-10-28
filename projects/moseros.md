@@ -11,5 +11,5 @@ labels:
   - Processing
   - Design
   - Simulation
-summary:  A procedural design tool simulating the removal of bricks from stacks to create open structures on the verge of collapse.
+summary:  Make a pile of bricks.  And then remove as many as you can.  Stop right before it collapses.
 ---
