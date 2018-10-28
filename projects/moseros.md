@@ -11,5 +11,5 @@ labels:
   - Processing
   - Design
   - Simulation
-summary:  Developed for <a href="http://mos.nyc">MOS</a>.  Make a pile of bricks.  And then remove as many as you can.  Stop right before it collapses.
+summary:  Make a pile of bricks.  And then remove as many as you can.  Stop right before it collapses.  Developed for <a href="http://mos.nyc">MOS</a>. 
 ---
