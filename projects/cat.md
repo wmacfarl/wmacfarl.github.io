@@ -3,7 +3,8 @@ layout: project
 type: project
 image: images/moscat.jpg
 title: CAT
-permalink: projects/test_project
+permalink: projects/mos_cat
+projecturl: http://www.mos.nyc/project/cat
 # All dates must be YYYY-MM-DD format!
 date: 2008-04-13
 labels:
