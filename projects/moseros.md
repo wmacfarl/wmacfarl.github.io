@@ -6,7 +6,7 @@ title: EROSION
 permalink: projects/erosion
 projecturl: http://www.mos.nyc/project/erosion
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-13
+date: 2009-09-01
 labels:
   - Processing
   - Design
