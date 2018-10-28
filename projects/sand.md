@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/teaching.png
+image: images/mossand.png
 title: SAND
 permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
