@@ -7,8 +7,8 @@ permalink: projects/microscope
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-27
 labels:
-  - Raspberry Pi
-  - Public Lab
+  - RaspberryPi
+  - PublicLab
 summary: Design and documentation of a low-cost, DIY digital microscope.
 ---
 
