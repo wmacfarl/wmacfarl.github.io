@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rockets.jpg
+image: images/rocket.png
 title: Water Bottle Rockets
 permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
