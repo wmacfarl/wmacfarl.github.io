@@ -13,4 +13,3 @@ labels:
 summary: Design and documentation for a DIY cardboard speaker.
 ---
 
-Test
