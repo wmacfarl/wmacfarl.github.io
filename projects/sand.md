@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/moseros.png
-title: EROSION
+image: images/sand.png
+title: SAND
 permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-13
