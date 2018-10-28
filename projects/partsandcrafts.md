@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/partsandcrafts.jpg
 title: Parts and Crafts
-permalink: projects/micromouse
+permalink: projects/partsandcrafts
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-28
 labels:
