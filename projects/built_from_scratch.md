@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/built_from_scratch.png
-title: Built From Scratch
+image: images/speaker.png
+title: Cardboard Speaker
 permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
-date: 2017-08-01
+date: 2014-04-13
 labels:
-  - Scratch
-  - Teaching
-summary: A video series documenting the building of a video game using Scratch.
+  - Lisp
+  - GitHub
+summary: A text adventure game I developed for ICS 313.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
@@ -58,3 +58,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 <hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
