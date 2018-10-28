@@ -14,10 +14,10 @@ summary: Founded in 2009, Parts and Crafts is a family and community makerspace 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/partsandcrafts-1.png">
+  <img class="ui image" src="../images/partsandcrafts-1.jpg">
   <img class="ui image" src="../images/partsandcrafts-2.jpg">
   <img class="ui image" src="../images/partsandcrafts-3.jpg">
-  <img class="ui image" src="../images/partsandcrafts-4.png">
+  <img class="ui image" src="../images/partsandcrafts-4.jpg">
 </div>
 
 
