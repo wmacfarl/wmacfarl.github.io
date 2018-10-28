@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/moscat.png
+image: images/moscat.jpg
 title: CAT
 permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
