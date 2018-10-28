@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/moseros.png
+image: images/moseros.jpg
 title: EROSION
 permalink: projects/erosion
 # All dates must be YYYY-MM-DD format!
