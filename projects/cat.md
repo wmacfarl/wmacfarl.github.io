@@ -10,5 +10,5 @@ labels:
   - Processing
   - Design
   - Simulation
-summary: Developed for <a href="http://mos.nyc">MOS</a>. A tool for creating vaulted structures with networks of catenary curves.
+summary: A tool for creating vaulted structures with networks of catenary curves.  Developed for <a href="http://mos.nyc">MOS</a>. 
 ---
