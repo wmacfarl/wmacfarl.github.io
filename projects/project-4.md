@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Test Project
+image: images/teaching.jpg
+title: Teaching
 permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-13
