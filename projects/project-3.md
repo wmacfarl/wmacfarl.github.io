@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/olpc.jpg
+title: One Lightsaber Per Child
+permalink: projects/olpc
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2014-04-11
 labels:
   - Lisp
   - GitHub
