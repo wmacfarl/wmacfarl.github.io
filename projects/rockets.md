@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/speaker.png
-title: Cardboard Speaker
+image: rockets.png
+title: Water Bottle Rockets
 permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-13
+date: 2017-07-31
 labels:
   - Lisp
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A cheap, simple, DIY water-bottle-rocket launcher kit design.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
