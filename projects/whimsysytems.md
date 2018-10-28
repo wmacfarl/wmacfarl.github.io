@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/scoop.jpg
-title: Teaching
+title: Whimsy Systems
 permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-13
