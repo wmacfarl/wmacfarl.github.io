@@ -9,6 +9,6 @@ date: 2009-08-01
 labels:
   - Processing
   - Design
-summary: A simulation of extremely daring block-stacking.
+summary: Developed for <a href="http://mos.nyc">MOS</a>.  A simulation of extremely daring block-stacking.
 ---
 Test
