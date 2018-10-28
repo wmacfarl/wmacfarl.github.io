@@ -5,7 +5,7 @@ image: images/rocket.png
 title: Rockets!
 permalink: projects/test_project
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-13
+date: 2017-7-31
 labels:
   - Lisp
   - GitHub
