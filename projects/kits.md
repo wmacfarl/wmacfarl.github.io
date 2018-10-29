@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kits.png
+image: images/kits.jpg
 title: Kits Initiative
 permalink: projects/kits
 # All dates must be YYYY-MM-DD format!
