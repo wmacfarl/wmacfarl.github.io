@@ -1,8 +1,8 @@
 ---
 layout: project
 type: teaching_page
-image: images/board_games.jpg
-title: Flatpack
+image: flatpack.jpg
+title: Flatpack -- Fix the Future
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-20
 labels:
