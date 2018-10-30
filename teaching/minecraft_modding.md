@@ -1,6 +1,6 @@
 ---
 layout: project
-type: teaching
+type: teaching_page
 image: images/minecraft_modding.jpg
 title: CAT
 # All dates must be YYYY-MM-DD format!
