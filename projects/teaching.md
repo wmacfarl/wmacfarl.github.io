@@ -3,7 +3,7 @@ layout: teaching
 type: project
 image: images/teaching.png
 title: Teaching
-permalink: projects/teaching
+permalink: teaching
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-29
 labels:
