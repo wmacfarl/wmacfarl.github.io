@@ -8,5 +8,5 @@ date: 2018-09-01
 labels:
   - Programming
   - p5.js/Javascript
-summary: An introduction to computer programming for curious grown-ups with little to know technical experience or background.
+summary: An introduction to computer programming for curious grown-ups with little to know technical experience or background.  An 8-session class for adults run at FabVille, Somerville's community Fab Lab.
 ---
