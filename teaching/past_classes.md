@@ -8,3 +8,4 @@ date: 2018-10-15
 labels: past classes
 summary: Crafting Science, Recreational Math, Writing Text Adventures, Making Games with Unity, Wind Turbine Design, Artificial Intelligence and Evolution, Puzzles: Making and Solving, Science of Sound, Math Circle, Musical Instrument Making, RC Cars + Blimps
 ---
+
