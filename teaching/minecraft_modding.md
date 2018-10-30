@@ -2,9 +2,9 @@
 layout: project
 type: teaching_page
 image: images/minecraft_modding.jpg
-title: CAT
+title: Introduction to Minecraft Modding
 # All dates must be YYYY-MM-DD format!
-date: 2008-04-13
+date: 2018-09-01
 labels:
   - Programming
   - Java
