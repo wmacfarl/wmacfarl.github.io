@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: teaching
+type: teaching
 image: images/teaching.png
 title: Teaching
 permalink: projects/teaching
@@ -10,3 +10,5 @@ labels:
   - Teaching
 summary: A summary of current and recent classes, workshops, and projects that I have taught.
 ---
+
+
