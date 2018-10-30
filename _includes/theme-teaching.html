@@ -1,5 +1,5 @@
-<div style="padding-top: 20px" class="ui container ">
 test include 2
+<div style="padding-top: 20px" class="ui container ">
   <div class="ui stackable centered four cards">
     {% assign project_pages = site.pages | where: "type", "teaching" | sort: "date" | reverse %}
     {% for page in project_pages %}
