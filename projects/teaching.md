@@ -1,6 +1,6 @@
 ---
 layout: teaching
-type: teaching
+type: project
 image: images/teaching.png
 title: Teaching
 permalink: projects/teaching
