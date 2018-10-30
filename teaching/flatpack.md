@@ -1,11 +1,12 @@
 ---
 layout: project
 type: teaching_page
-image: images/flatpack.png
-title: Flatpack: Fix the Future
+image: images/board_games.jpg
+title: Flatpack
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-01
+date: 2018-03-20
 labels:
-  - role playing game
-summary: A hybrid role-playing, writing, storytelling game loosely based off of the Flatpack: Optimistic Post-Apocalyptic Role-Playing game.  Run with kids ages 7 to 14 at the Parts and Crafts Center for Semi-Conducted Learning.
+  - Game Design
+  - Crafts
+summary: A class on board and card game design focused on prototyping, playtesting, discussion, and iteration.  For kids ages 7-14 at the Parts and Crafts Center for Semi-Conducted Learning.
 ---
