@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/game_design.jpg
+image: images/game_design.JPG
 title: Board Game Design
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-20
