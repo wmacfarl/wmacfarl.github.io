@@ -5,6 +5,7 @@ image: images/rocket.png
 title: Water Bottle Rocketry
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
+current: yes
 labels:
   - Physics
   - Engineering
