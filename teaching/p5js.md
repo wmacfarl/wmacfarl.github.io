@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/p5js.png
+image: images/javascript.png
 title: What is Programming?
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
