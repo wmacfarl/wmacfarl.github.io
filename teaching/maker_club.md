@@ -5,6 +5,7 @@ image: images/maker_club.jpg
 title: Maker Club
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
+current: yes
 labels:
   - Programming
   - Scratch
