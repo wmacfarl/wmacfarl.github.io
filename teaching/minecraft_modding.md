@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/minecraft_modding.jpg
+image: images/minecraft_modding.png
 title: Introduction to Minecraft Modding
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
