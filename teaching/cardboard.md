@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/cardboard.png
+image: images/cardboard.jpg
 title: Cardboard Contraptions
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-15
