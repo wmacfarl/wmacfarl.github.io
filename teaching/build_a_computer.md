@@ -5,6 +5,7 @@ image: images/computer_build.JPG
 title: Build a Computer
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
+current: no
 labels:
   - Computers
   - Hardware
