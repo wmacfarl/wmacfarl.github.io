@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/scratch_club.jpg
+image: images/scratch_club.png
 title: Scratch Club
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
