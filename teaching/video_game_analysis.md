@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/video_game.jpg
+image: images/video_game.png
 title: Video Game Analysis
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
