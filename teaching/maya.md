@@ -5,6 +5,7 @@ image: images/maya.png
 title: 3D Animation
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-15
+current: no
 labels:
   - 3D Animation
   - Maya
