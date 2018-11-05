@@ -1,6 +1,6 @@
 <div style="padding-top: 20px" class="ui container ">
-  <div class="ui stackable centered four cards">
     <h2> Current Classes</h2>
+  <div class="ui stackable centered four cards">
     {% assign current_class_pages = site.pages | where: "type", "teaching_page" | where:"current", true |  sort: "date" | reverse %}
     {% for page in current_class_pages %}
       {% unless page.draft %}
@@ -8,8 +8,8 @@
       {% endunless %}
     {% endfor %}
   </div> 
-  <div class="ui stackable centered four cards">
     <h2>Recent Classes</h2>    
+  <div class="ui stackable centered four cards">
         {% assign recent_class_pages = site.pages | where: "type", "teaching_page" | where:"current", false | sort: "date" | reverse %}
           {% for page in recent_class_pages %}
             {% unless page.draft %}
