@@ -12,7 +12,7 @@
   </div> 
   <div class="ui stackable centered four cards">
     <h2>Recent Classes</h2>    
-        {% assign recent_class_pages = site.pages | where: "type", "teaching_page" | where:"current", "no" | sort: "date" | reverse %}
+        {% assign recent_class_pages = site.pages | where: "type", "teaching_page" | where:"current", false | sort: "date" | reverse %}
           {% for page in recent_class_pages %}
             {% unless page.draft %}
               {% include project-card.html page=page %}
