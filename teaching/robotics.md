@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/microbot.jpg
+image: images/microbit.jpg
 title: Robotics with the MicroBit
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-01
