@@ -5,6 +5,7 @@ image: images/scratch_club.png
 title: Scratch Club
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
+current: yes
 labels:
   - Programming
   - Scratch
