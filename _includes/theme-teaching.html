@@ -1,7 +1,7 @@
 <div style="padding-top: 20px" class="ui container ">
   <div class="ui stackable centered four cards">
     <h2> Current Classes</h2>
-    {% assign current_class_pages = site.pages | where: "type", "teaching_page" | where: "current", "yes"|  sort: "date" | reverse %}
+    {% assign current_class_pages = site.pages | where: "type", "teaching_page" |  sort: "date" | reverse %}
     {% for page in current_class_pages %}
       {% unless page.draft %}
         {% if page.current == "yes"%}
