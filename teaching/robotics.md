@@ -5,6 +5,7 @@ image: images/microbit.jpg
 title: Robotics with the MicroBit
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-01
+current: yes
 labels:
   - Programming
   - Electronics
