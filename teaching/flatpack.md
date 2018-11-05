@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: flatpack.jpg
+image: rpg.jpg
 title: Flatpack -- Fix the Future
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-20
