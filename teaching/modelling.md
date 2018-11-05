@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/modeling_the_world.png
+image: images/modelling_the_world.png
 title: Modelling the World
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-20
