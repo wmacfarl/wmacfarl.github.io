@@ -5,6 +5,7 @@ image: images/modelling_the_world.png
 title: Modelling the World
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-20
+current: no
 labels:
   - Programming
   - Simulation
