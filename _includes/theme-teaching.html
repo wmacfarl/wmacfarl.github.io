@@ -1,10 +1,20 @@
 <div style="padding-top: 20px" class="ui container ">
   <div class="ui stackable centered four cards">
-    {% assign project_pages = site.pages | where: "type", "teaching_page" | sort: "date" | reverse %}
-    {% for page in project_pages %}
+    <h2> Current Classes</h2>
+    {% assign current_class_pages = site.pages | where: "type", "teaching_page" and "current", "yes"|  sort: "date" | reverse %}
+    {% for page in current_class_pages %}
       {% unless page.draft %}
         {% include project-card.html page=page %}
       {% endunless %}
     {% endfor %}
+    
+    <h2>Recent Classes</h2>    
+        {% assign recent_class_pages = site.pages | where: "type", "teaching_page" and "current", "yes"|  sort: "date" | reverse %}
+    {% for page in recent_class_pages %}
+      {% unless page.draft %}
+        {% include project-card.html page=page %}
+      {% endunless %}
+    {% endfor %}
+
   </div>
 </div>
