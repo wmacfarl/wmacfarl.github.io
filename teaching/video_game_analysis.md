@@ -5,6 +5,7 @@ image: images/video_game.png
 title: Video Game Analysis
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
+current: no
 labels:
   - Game Design
   - Writing
