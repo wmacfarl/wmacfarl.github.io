@@ -4,7 +4,9 @@
     {% assign current_class_pages = site.pages | where: "type", "teaching_page" | where: "current", "yes"|  sort: "date" | reverse %}
     {% for page in current_class_pages %}
       {% unless page.draft %}
+        {% if page.current == "yes"%}
         {% include project-card.html page=page %}
+        {% endif %}
       {% endunless %}
     {% endfor %}
   </div> 
