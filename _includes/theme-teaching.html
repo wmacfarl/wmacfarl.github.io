@@ -4,7 +4,7 @@
     {% assign current_class_pages = site.pages | where: "type", "teaching_page" | where:"current", true |  sort: "date" | reverse %}
     {% for page in current_class_pages %}
       {% unless page.draft %}
-        {% include project-card.html page=page %}
+        {% include teaching-card.html page=page %}
       {% endunless %}
     {% endfor %}
   </div> 
@@ -13,7 +13,7 @@
         {% assign recent_class_pages = site.pages | where: "type", "teaching_page" | where:"current", false | sort: "date" | reverse %}
           {% for page in recent_class_pages %}
             {% unless page.draft %}
-              {% include project-card.html page=page %}
+              {% include teaching-card.html page=page %}
             {% endunless %}
           {% endfor %}
   </div>
