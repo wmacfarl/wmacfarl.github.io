@@ -6,7 +6,7 @@ title: Maker Club
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
 audience: Kids 7 to 14
-program: Various in and out of school programs at Parts and Crafts and other locations.
+program: Various
 current: yes
 labels:
   - Crafts
