@@ -4,6 +4,8 @@ type: teaching_page
 image: images/past_classes.jpg
 title: A Selection of Past Classes (2016-2017)
 current: no
+audience: Various
+program: Various
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-15
 labels: past classes
