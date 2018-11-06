@@ -2,7 +2,7 @@
 layout: project
 type: teaching_page
 image: images/modelling_life.jpg
-title: Modeling Life
+title: Modelling Life
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-01
 current: no
