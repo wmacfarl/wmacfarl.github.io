@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/arduino.png
+image: images/arduino.jpg
 title: What's a Microcontroller?
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
