@@ -1,5 +1,5 @@
 <div style="padding-top: 20px" class="ui container ">
-    <h2> Current Classes</h2>
+    <h2> Current Classes (Fall 2018)</h2>
   <div class="ui stackable centered four cards">
     {% assign current_class_pages = site.pages | where: "type", "teaching_page" | where:"current", true |  sort: "date" | reverse %}
     {% for page in current_class_pages %}
@@ -8,7 +8,7 @@
       {% endunless %}
     {% endfor %}
   </div> 
-    <h2>Recent Classes</h2>    
+    <h2>Recent Classes (Fall 2017-Spring 2018)</h2>    
   <div class="ui stackable centered four cards">
         {% assign recent_class_pages = site.pages | where: "type", "teaching_page" | where:"current", false | sort: "date" | reverse %}
           {% for page in recent_class_pages %}
