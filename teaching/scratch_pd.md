@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/scratch_pd.png
+image: images/scratch_pd.jpg
 title: Teaching with Scratch
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
