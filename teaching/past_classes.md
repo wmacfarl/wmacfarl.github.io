@@ -9,6 +9,6 @@ program: Various
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-15
 labels: past classes
-summary: Crafting Science, Recreational Math, Writing Text Adventures, Making Games with Unity, Wind Turbine Design, Artificial Intelligence and Evolution, Logic and Puzzles, Science of Sound, Math Circle, Musical Instrument Making, RC Cars + Blimps
+summary: Crafting Science, Recreational Math, Text Adventures, Wind Turbine Design, Artificial Intelligence and Evolution, Logic and Puzzles, Science of Sound, Musical Instrument Making, RC Cars + Blimps
 ---
 
