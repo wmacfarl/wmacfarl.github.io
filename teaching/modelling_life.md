@@ -5,7 +5,7 @@ image: images/modelling_life.jpg
 title: Modeling Life
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-01
-current: yes
+current: no
 program: Atrium STEAM Cluster
 audience: 8th Grade
 labels:
