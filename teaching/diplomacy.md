@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/diplomacy.png
+image: images/diplomacy.jpg
 title: Diplomacy
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
