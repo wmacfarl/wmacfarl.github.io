@@ -1,7 +1,7 @@
 ---
 layout: project
 type: teaching_page
-image: images/microbit.jpg
+image: images/scratch_and_circuits.jpg
 title: Scratch and Circuits!
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-01
