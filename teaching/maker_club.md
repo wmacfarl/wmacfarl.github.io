@@ -5,9 +5,12 @@ image: images/maker_club.jpg
 title: Maker Club
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
+audience: Kids 7 to 14
+program: Various in and out of school programs at Parts and Crafts and other locations.
 current: yes
 labels:
-  - Programming
-  - Scratch
-summary: An informal time and space for kids who love making things to build, tinker, share, and make together.  Run on an ongoing basis in many programs during and afterschool.
+  - Crafts
+  - Informal Education
+  - Making
+summary: An informal time and space for kids who love making things to build, tinker, share, and make together.
 ---
