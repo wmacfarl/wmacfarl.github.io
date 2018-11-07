@@ -7,7 +7,7 @@ title: Intro to 3D Printing
 date: 2018-09-01
 audience: Grownups
 program: FabVille
-current: yes
+current: no
 labels:
   - Digital Fabrication
   - 3D Modelling
