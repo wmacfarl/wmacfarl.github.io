@@ -28,8 +28,11 @@ During the school year we run the [Center for Semi-Conducted-Learning](https://w
 
 You can learn more at the [Parts and Crafts website](https://www.partsandcrafts.org).  Including ["How We Do It"](https://www.partsandcrafts.org/about-us/theory-and-philosphy/how-we-do-it/), and ["Our Manifesto"](https://www.partsandcrafts.org/about-us/theory-and-philosphy/making-things-and-making-things-happen/).
 
-Or you can peruse our annual reports.
-[2014 Annual Report](/reports/2014 annual report.pdf)
+Or you can peruse our annual reports below:
+- [2017 Annual Report](/reports/2017 annual report.pdf)
+- [2016 Annual Report](/reports/2016 annual report.pdf)
+- [2015 Annual Report](/reports/2015 annual report.pdf)
+- [2014 Annual Report](/reports/2014 annual report.pdf)
 
 
 
