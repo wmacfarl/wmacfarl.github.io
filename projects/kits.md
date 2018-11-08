@@ -13,3 +13,7 @@ labels:
 summary: Design and documentation for a series of building kits for kids made from low-cost, readily available materials.
 ---
 
+<img class="ui image" src="../images/cse_banner.jpg">
+<img class="ui image" src="../images/kits_banner.jpg">
+<img class="ui image" src="../images/lightsaber_banner.jpg">
+<img class="ui image" src="../images/mousebot_banner.jpg">
