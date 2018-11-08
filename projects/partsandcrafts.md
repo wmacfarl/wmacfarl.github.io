@@ -23,6 +23,8 @@ Over the years we've slowly and organically grown our programming and community.
 
 During the school year we run the [Center for Semi-Conducted-Learning](https://www.partsandcrafts.org/alternative-school/), a full-time school-alternative program as well as our [afterschool makerspace program](https://www.partsandcrafts.org/afterschool/), both for kids ages 7 to 14.  In our space we also run drop-in [community open-shop](https://www.partsandcrafts.org/makerspace/open-shop/) hours for people of all ages.  We collaborate with the Somerville Public Schools to run a [makerspace classroom at Next Wave/Full Cirle](https://www.partsandcrafts.org/makerspace/next-wave-full-circle/), Somerville's public alternative middle/high-school and with the city's Office of Strategic Planning and Community Development to manage [FabVille](https://www.fabville.net/), a free and publically accessible community Fab Lab housed in Somerville High School.  In addition to our on-site programs we run in-school STEAM classes in schools as well as travelling afterschool and weekend workshops with local community centers including a week-long STEAM summer camp for immigrant teens at the Mystic Public Housing Development in collaboration with [The Welcome Project](https://www.welcomeproject.org/).
 
+<img class="ui image" src="../images/partsandcrafts_banner_3.jpg">
+
 You can learn more at the [Parts and Crafts website](https://www.partsandcrafts.org).  Including ["How We Do It"](https://www.partsandcrafts.org/about-us/theory-and-philosphy/how-we-do-it/), and ["Our Manifesto"](https://www.partsandcrafts.org/about-us/theory-and-philosphy/making-things-and-making-things-happen/).
 
 Or you can peruse our annual reports below:
