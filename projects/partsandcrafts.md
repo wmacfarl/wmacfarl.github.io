@@ -29,6 +29,15 @@ We collaborate with the Somerville Public Schools to run a [makerspace classroom
 
 You can learn more at the [Parts and Crafts website](https://www.partsandcrafts.org).  Including ["How We Do It"](https://www.partsandcrafts.org/about-us/theory-and-philosphy/how-we-do-it/), and ["Our Manifesto"](https://www.partsandcrafts.org/about-us/theory-and-philosphy/making-things-and-making-things-happen/).
 
+You can see what other people have written about us:
+- [The Rise of the Maker Movement for Kids](https://makezine.com/2015/05/08/rise-kids-maker-movement/)
+- [Kidz Turn Bratz Into Star Wars Rey Dolls](https://makezine.com/2016/01/01/kids-turn-bratz-into-star-wars-rey-dolls/)
+- [Free Range Education: Why the unschooling movement is growing](https://www.csmonitor.com/USA/Education/2016/0214/Free-range-education-Why-the-unschooling-movement-is-growing)
+- [Parts and Crafts Brings the Maker Movement to Kids](https://scoutsomerville.com/parts-and-crafts-brings-the-maker-movement-to-kids/)
+- [Somerville's Parts and Crafts pushes for Safe Communities Act](http://somerville.wickedlocal.com/news/20170518/somervilles-parts-and-crafts-pushes-for-safe-communities-act-at-state-house)
+- [What is Unschooling](https://www.bostonglobe.com/magazine/2018/10/02/home-schoolers-turn-boston-area-new-unschooling-centers/j4TB7K54hm7V7ri0yDPTlM/story.html)
+- [Design Squad: Parts and Crafts](https://www.youtube.com/watch?v=rqzLbDukEbI)
+
 Or you can peruse our annual reports below:
 - [2017 Annual Report](/reports/2017 annual report.pdf)
 - [2016 Annual Report](/reports/2016 annual report.pdf)
