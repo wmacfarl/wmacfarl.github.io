@@ -11,10 +11,10 @@ labels:
   - Teaching
 summary: A video series documenting the building of a video game using Scratch.
 ---
+"Built From Scratch" is a series of short tutorial videos documenting the design and programming of a video game project using the Scratch programming language.  The series was started using Scratch 2.0 and is currently on-hold with a plan to start it again from the beginning with the new Scratch 3.0 environment after it is released.
+
 <img class="ui image" src="../images/bfs_banner.jpg">
 <img class="ui image" src="../images/bfs_banner_2.jpg">
-
-"Built From Scratch" is a series of short tutorial videos documenting the design and programming of a video game project using the Scratch programming language.  The series was started using Scratch 2.0 and is currently on-hold with a plan to start it again from the beginning with the new Scratch 3.0 environment after it is released.
 
 While many resources and tutorials exist for beginner programmers, they tend to focus on the act of writing code to solve problems and accomplish specific goals.  While these resources are tremendously helpful, they tend to focus on product rather than process and teach the skills involved in constructing software in isolation from the skills involved in designing it.
 
