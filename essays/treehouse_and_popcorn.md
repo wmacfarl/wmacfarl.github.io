@@ -11,7 +11,7 @@ labels:
 
 _The following is adapted from a lightning talk we gave at Jay Silver’s Radical Design for Learning class at the MIT Media Lab in 2011.  Some of the talk is dated, but the ideas are good and so I thought I’d leave it mostly untouched (beyond removing some names) as a historical snapshot of a cute little growing Parts and Crafts rather than update it._
 
-<table border="0">
+<table border="0" width="50%">
 <tr>
   <td width="50%">
     <p>
