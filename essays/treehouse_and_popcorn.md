@@ -26,13 +26,20 @@ We’re growing right now, so that’s what I want to talk about — growth and 
   </td>
 </tr>
 </table>
-
 ***
-
+<table>
+  <tr>
+    <td>
+      <p>
 To the contrary, we tend to be focused on slowly making, in a kind of boring, day-to-day way, our own little set of projects better and more inclusive– keeping the workshop clean and organized, staying in touch with kids and parents about what they’d love to do, or to see happen, inviting more people into our community and figuring out how to make them comfortable. Mostly, it involves having lots of conversations.
-We’re going to talk about two people who we’ve worked with — one of them is 11 and one of them is 25.
-
-***
+      </p>
+<p>
+  We’re going to talk about two people who we’ve worked with — one of them is 11 and one of them is 25.
+      </p>
+    </td>
+    <td>
+      <img src = "images/img1.png"/>
+    </td>
 
 The first is a kid we’ve worked with for about three years now. His big project, for the past two years, has been making a popcorn popper. In the months leading up to last summer, we received the following email from him:
 
