@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: essay_draft
 title: The Treehouse and the Popcorn Sale
 # All dates must be YYYY-MM-DD format!
 date: 2011-09-08
