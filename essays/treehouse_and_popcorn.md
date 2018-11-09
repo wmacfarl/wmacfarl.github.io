@@ -14,17 +14,22 @@ _The following is adapted from a lightning talk we gave at Jay Silver’s Radica
 
 <tr>
   <td>
+    <p>
 Parts and Crafts is, among other things, a summercamp where kids and adults work together on cool stuff.  We’re inspired by a lot of constructionist and unschooling/freeschooling ideas.  It was originally conceived as a kind of experimental lab for teaching and learning about teaching and learning.
-
+    </p>
+    <p>
 We’re growing right now, so that’s what I want to talk about — growth and scale. When we talk with people from larger organizations, we are frequently put off by their emphasis on quickly running “pilot programs” which can be “replicated” and, ideally I suppose, implemented on some larger mass scale.
-</td>
-<td>
-  <img src="welcome-to-parts-and-crafts.jpg"/>
+    </p>
+  </td>
+  <td>
+    <img src="images/welcome-to-parts-and-crafts.jpg"/>
   </td>
 </tr>
 
-***
 <tr>
+
+***
+
 To the contrary, we tend to be focused on slowly making, in a kind of boring, day-to-day way, our own little set of projects better and more inclusive– keeping the workshop clean and organized, staying in touch with kids and parents about what they’d love to do, or to see happen, inviting more people into our community and figuring out how to make them comfortable. Mostly, it involves having lots of conversations.
 </tr>
 </table>
