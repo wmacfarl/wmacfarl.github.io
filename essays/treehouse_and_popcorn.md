@@ -19,7 +19,7 @@ Parts and Crafts is, among other things, a summercamp where kids and adults work
 We’re growing right now, so that’s what I want to talk about — growth and scale. When we talk with people from larger organizations, we are frequently put off by their emphasis on quickly running “pilot programs” which can be “replicated” and, ideally I suppose, implemented on some larger mass scale.
 </td>
 <td>
-  <img src="welcome_to_parts_and_crafts.jpg"/>
+  <img src="welcome-to-parts-and-crafts.jpg"/>
   </td>
 </tr>
 
