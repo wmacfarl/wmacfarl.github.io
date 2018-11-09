@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Treehoues and the Popcorn Sale
+title: The Treehouse and the Popcorn Sale
 # All dates must be YYYY-MM-DD format!
 date: 2011-09-08
 labels:
