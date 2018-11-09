@@ -22,7 +22,7 @@ We’re growing right now, so that’s what I want to talk about — growth and 
     </p>
   </td>
   <td>
-    <img src="/images/welcome-to-parts-and-crafts.jpg"/>
+    <img src="/images/welcome-to-part-and-crafts.jpg"/>
   </td>
 </tr>
 </table>
