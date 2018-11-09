@@ -27,7 +27,7 @@ We’re growing right now, so that’s what I want to talk about — growth and 
 <tr>
 To the contrary, we tend to be focused on slowly making, in a kind of boring, day-to-day way, our own little set of projects better and more inclusive– keeping the workshop clean and organized, staying in touch with kids and parents about what they’d love to do, or to see happen, inviting more people into our community and figuring out how to make them comfortable. Mostly, it involves having lots of conversations.
 </tr>
-
+</table>
 We’re going to talk about two people who we’ve worked with — one of them is 11 and one of them is 25.
 
 ***
@@ -55,4 +55,4 @@ They’re both examples of awesome projects that start with a conversation. They
 When you scale up, you tend to abstract away the most interesting parts of the project.  The treehouse and the popcorn popper don’t fit easily into a curriculum, in part because you can’t depend on these specific people being around.
 
 But you can depend on someone being excited about something, and leave yourself enough space to be able to notice it, and be thoughtful about it when it comes along.
-</table>
+
