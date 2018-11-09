@@ -38,7 +38,7 @@ To the contrary, we tend to be focused on slowly making, in a kind of boring, da
       </p>
     </td>
     <td>
-      <img src = "images/img1.png"/>
+      <img src = "/images/img1.png"/>
     </td>
 
 The first is a kid we’ve worked with for about three years now. His big project, for the past two years, has been making a popcorn popper. In the months leading up to last summer, we received the following email from him:
