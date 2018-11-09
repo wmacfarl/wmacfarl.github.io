@@ -10,8 +10,8 @@ labels:
 ---
 
 _The following is adapted from a lightning talk we gave at Jay Silver’s Radical Design for Learning class at the MIT Media Lab in 2011.  Some of the talk is dated, but the ideas are good and so I thought I’d leave it mostly untouched (beyond removing some names) as a historical snapshot of a cute little growing Parts and Crafts rather than update it._
-<table border="0">
 
+<table border="0">
 <tr>
   <td>
     <p>
@@ -25,14 +25,11 @@ We’re growing right now, so that’s what I want to talk about — growth and 
     <img src="images/welcome-to-parts-and-crafts.jpg"/>
   </td>
 </tr>
-
-<tr>
+</table>
 
 ***
 
 To the contrary, we tend to be focused on slowly making, in a kind of boring, day-to-day way, our own little set of projects better and more inclusive– keeping the workshop clean and organized, staying in touch with kids and parents about what they’d love to do, or to see happen, inviting more people into our community and figuring out how to make them comfortable. Mostly, it involves having lots of conversations.
-</tr>
-</table>
 We’re going to talk about two people who we’ve worked with — one of them is 11 and one of them is 25.
 
 ***
