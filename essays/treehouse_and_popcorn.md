@@ -23,7 +23,7 @@ We’re growing right now, so that’s what I want to talk about — growth and 
   </td>
   <td style="width:50%">
     test change
-    <img style="width:100%" src="/images/welcome-to-part-and-crafts.jpg"/>
+    <img width="100%" src="/images/welcome-to-part-and-crafts.jpg"/>
   </td>
 </tr>
 </table>
