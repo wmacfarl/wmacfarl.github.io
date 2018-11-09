@@ -22,7 +22,6 @@ We’re growing right now, so that’s what I want to talk about — growth and 
     </p>
   </td>
   <td style="width:50%">
-    test change
     <img width="100%" src="/images/welcome-to-part-and-crafts.jpg"/>
   </td>
 </tr>
@@ -39,7 +38,7 @@ To the contrary, we tend to be focused on slowly making, in a kind of boring, da
       </p>
     </td>
   <td style="width:50%">
-      <img src = "/images/img1.png"/>
+      <img width = "100%" src = "/images/img1.png"/>
     </td>
   </tr>
 </table>
