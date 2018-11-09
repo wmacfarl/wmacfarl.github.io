@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: The Treehoues and the Popcorn Sale
+# All dates must be YYYY-MM-DD format!
+date: 2011-09-08
+labels:
+  - Teaching
+  - Learning
+---
+
 _The following is adapted from a lightning talk we gave at Jay Silver’s Radical Design for Learning class at the MIT Media Lab in 2011.  Some of the talk is dated, but the ideas are good and so I thought I’d leave it mostly untouched (beyond removing some names) as a historical snapshot of a cute little growing Parts and Crafts rather than update it._
 
 Parts and Crafts is, among other things, a summercamp where kids and adults work together on cool stuff.  We’re inspired by a lot of constructionist and unschooling/freeschooling ideas.  It was originally conceived as a kind of experimental lab for teaching and learning about teaching and learning.
