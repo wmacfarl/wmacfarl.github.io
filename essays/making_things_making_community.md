@@ -5,8 +5,6 @@ title: Making Things, Making Community
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-08
 labels:
-  - Teaching
-  - Learning
 ---
 
 _Originally published on the [Alternatives to School Blog](http://alternativestoschool.com/blog/)_
