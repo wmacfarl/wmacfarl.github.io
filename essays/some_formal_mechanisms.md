@@ -5,10 +5,6 @@ title: Some Formal Mechanisms to Support Informal Learning
 # All dates must be YYYY-MM-DD format!
 date: 2015-03-22
 labels:
-  - education
-  - informal learning
-  - experience design
-  - Parts and Crafts
 ---
 
 _This piece is an elaboration of a short talk I gave at LibrePlanet 2015 to an audience of Free, Open-Source Software developers and community members.  It was distributed to conference attendees and later published on our web-site._
