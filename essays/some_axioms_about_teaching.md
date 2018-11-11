@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Some Axioms About Teaching
+title: Teaching and Learning Axioms
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-08
 labels:
