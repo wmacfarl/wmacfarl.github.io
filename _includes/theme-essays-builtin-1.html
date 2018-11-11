@@ -1,10 +1,29 @@
 <div style="padding-top: 20px" class="ui container ">
 
   <div class="ui stackable centered four cards">
+    <h2>Essays/Articles</h2>
     {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
       {% for page in essay_pages %}
         {% unless page.draft %}
           {% include essay-card.html page=page %}
+        {% endunless %}
+      {% endfor %}
+  </div>
+    <div class="ui stackable centered four cards">
+  <h2>Selected Project Documentation</h2>
+    {% assign project_doc_pages = site.pages | where: "type", "project_doc" | sort: "date" | reverse %}
+      {% for page in project_doc_pages %}
+        {% unless page.draft %}
+          {% include project-card.html page=page %}
+        {% endunless %}
+      {% endfor %}
+  </div>
+    <div class="ui stackable centered four cards">
+  <h2>Sample Course Syllabi</h2>
+    {% assign syllabi_pages = site.pages | where: "type", "syllabus" | sort: "date" | reverse %}
+      {% for page in syllabi_pages %}
+        {% unless page.draft %}
+          {% include project-card.html page=page %}
         {% endunless %}
       {% endfor %}
   </div>
