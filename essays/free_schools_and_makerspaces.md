@@ -4,10 +4,6 @@ type: essay
 title: Free Schools and Makerspaces
 # All dates must be YYYY-MM-DD format!
 date: 2014-07-12
-labels:
-  - education
-  - free schools
-  - makerspaces
 ---
 
 _Here are some thoughts as to what [free schools, homeschooling groups, and unschooling centers] have to do with hackerspaces, makerspaces, and the like, as well as why you might want to consider bringing [DIY projects, tech, hands-on projects of various kinds] into your alternative learning space.  Originally produced as a handout for the [Alternative Education Resource Organization (AERO) Conference](https://www.aeroconference.org/)._
