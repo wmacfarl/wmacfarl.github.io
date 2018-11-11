@@ -5,8 +5,6 @@ title: Teaching and Learning Axioms
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-08
 labels:
-  - Teaching
-  - Learning
 ---
 
 I began teaching and designing learning spaces and communities for very pragmatic reasons -- I wanted to work with young people in education but I couldn’t find existing teaching environments designed around the kinds of teaching I wanted to do.   I wanted to create a space for hands-on, self-directed, playful, project-based learning, a space for kids  where they could learn in the ways that I found myself learning best in -- by playing, experimenting, hanging out, chatting, and tinkering with ideas and objects until I knew what to do with them and I could get them to do what I wanted.  
