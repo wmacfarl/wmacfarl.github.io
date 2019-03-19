@@ -196,8 +196,7 @@
         "3D printing",
         "Basic woodworking"
       ]
-    }
-  ],
+    },  
       {
       "name": "Administration",
       "level": "",
@@ -208,7 +207,8 @@
         "Proogram and experience design",
         "Communication"
       ]
-    },
+    }
+    ]
 
    "education": [
     {
