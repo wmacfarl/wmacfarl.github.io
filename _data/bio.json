@@ -166,13 +166,14 @@
   ],
   "skills": [
     {
-      "name": "Workshop + Experience Design",
+      "name": "Teaching",
       "level": "",
       "keywords": [
         "Mentoring",
         "Project documentation",
         "Workshop and curriculum creation",
-        "Proogram and experience design"       
+        "Proogram and experience design",
+        "Demystifying math, science, technology
       ]
     },
     {
@@ -197,6 +198,18 @@
       ]
     }
   ],
+      {
+      "name": "Administration",
+      "level": "",
+      "keywords": [
+        "Non-Profit Bookkeeping/Financial Management",
+        "Project management",
+        "Staff mentorship",
+        "Proogram and experience design",
+        "Communication"
+      ]
+    },
+
    "education": [
     {
       "institution": "Massachusetts Institute of Technology",
