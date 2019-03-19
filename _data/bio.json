@@ -166,14 +166,22 @@
   ],
   "skills": [
     {
-      "name": "Teaching",
+      "name": "Learning Design",
       "level": "",
       "keywords": [
         "Mentoring",
         "Project documentation",
         "Workshop and curriculum creation",
-        "Proogram and experience design",
-        "Demystifying math, science, technology"
+        "Proogram and experience design"
+      ]
+    },{
+      "name": "Teaching",
+      "level": "",
+      "keywords": [
+        "Secondary School Math/Science",
+        "Creative Computing/Computer Programming",
+        "Electronics + Digital Fabrication",
+        "Game Design"
       ]
     },
     {
