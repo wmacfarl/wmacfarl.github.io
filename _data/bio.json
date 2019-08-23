@@ -83,11 +83,25 @@
   ],
   "work": [
     {
+      "company": "Providence Children's Museum",
+      "position": "Maker Specialist",
+      "website": "http://www.childrenmuseum.org/",
+      "startDate": "2019-7-01",
+      "endDate": "Present",
+      "summary": "Documentation and development of hands-on building projects for kids ages 5-11 in a museum makerspace setting.",
+      "highlights": [
+        "Developed hands-on, building projects to work in the context of a children's museum makerspace.",
+        "Ran prototype workshops in collaboration with museum staff and facillitators.",
+        "Produced project documentation and ran trainings for museum staff."
+      ]
+    },
+
+    {
       "company": "Parts and Crafts",
       "position": "Founder/Co-Director",
       "website": "https://www.partsandcrafts.org",
       "startDate": "2009-1-01",
-      "endDate": "Present",
+      "endDate": "2019-6-01",
       "summary": "Founded and directed a youth and community makerspace and alternative education center serving 1100 children annually in a variety of programs in and out of school.",
       "highlights": [
         "Designed  and facillitated student-directed creative learning spaces in the form of school-vacation camps, afterschool and evening open-shop programs, in-school workshops and partnerships, and a five day/week school-alternative program.",
