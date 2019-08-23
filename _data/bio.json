@@ -5,7 +5,7 @@
     "picture": "https://wmacfarl.github.io/images/will.png",
     "email": "will@partsandcrafts.org",
     "phone": "617-501-5793",
-    "website": "https://partsandcrafts.org",
+    "website": "https://wmacfarl.github.io",
     "summary": "I design, develop, and facilitate tools, spaces, communities, and experiences through which people of all ages can build, play, make, teach, and learn together.",
     "location": {
       "address": "",
@@ -95,7 +95,6 @@
         "Produced project documentation and ran trainings for museum staff."
       ]
     },
-
     {
       "company": "Parts and Crafts",
       "position": "Founder/Co-Director",
@@ -119,7 +118,7 @@
       "website": "https://publiclab.org/",
       "startDate": "2011-01-01",
       "endDate": "Present",
-      "summary": "Volunteer organizer for DIY Civic Science",
+      "summary": "Volunteer organizer for supporting the development and documentation of DIY, civic science tools and techniques.",
       "highlights": [
         "Ran community workshops and outreach events focused on developing and using DIY open-hardware environmental monitoring tools to citizen science and environmental justice initiatives.",
         "Developed project documentation and workshop curriculum supporting the building and use of these tools."
