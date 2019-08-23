@@ -1,5 +1,4 @@
 <!-- Used by theme-bio-builtin-2 -->
-AA
 <div class="sixteen wide column no-bottom">
   <h3 class="ui left aligned header no-bottom">Education</h3>
   <hr style="margin: 0px;">
@@ -9,8 +8,8 @@ AA
   <div class="twelve wide column no-bottom">
     <p class="ui no-bottom"><b>{{ entry.institution }}</b></p>
     <p class="ui no-bottom">{{ entry.studyType }}
-      {% if entry.area %}
-        ,A {{ entry.area }}</p>
+      {% if entry.area != "" %}
+        , {{ entry.area }}</p>
       {% endif %}
     {% if entry.courses %}
       <ul style="margin: 0px;">
