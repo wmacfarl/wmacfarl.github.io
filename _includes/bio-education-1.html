@@ -14,7 +14,7 @@ BB
       <p class="ui no-bottom"><b>{{ entry.institution }}</b></p>
    
         <p class="ui no-bottom">{{ entry.studyType }}
-             {% if entry.area %}
+             {% if entry.area != "" %}
               B, {{ entry.area }}</p>
             {% endif %}
       {% if entry.courses %}
