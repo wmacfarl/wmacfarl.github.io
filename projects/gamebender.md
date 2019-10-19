@@ -11,5 +11,5 @@ labels:
   - Design
   - Creative Learning
   - Project Management
-summary: Placeholder summary text.
+summary: GameBender.
 ---
