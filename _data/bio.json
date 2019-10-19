@@ -83,6 +83,33 @@
   ],
   "work": [
     {
+      "company": "JoyLabz",
+      "position": "Designer/Product Owner",
+      "website": "https://www.gamebender.com/",
+      "startDate": "2019-7-01",
+      "endDate": "Present",
+      "summary": "UX Design and software team management for a kid-friendly, playful coding tool built on top of Scratch",
+      "highlights": [
+        "UX design and curriculum development to promote classroom and educational use of our product",
+        "Coordinate between design and development teams to define release schedule needs and prioritize development efforts",
+        "Develop epics and user-stories defining product needs and work with development team to create tasks",
+        "Agile sprint planning and review"
+      ]
+    },
+     {
+      "company": "Public Laboratory for Open Technology and Science",
+      "position": "Open Hardware Fellow",
+      "website": "http://www.publiclab.org/",
+      "startDate": "2019-9-01",
+      "endDate": "2019-12-31",
+      "summary": "Documentation and development of DIY water quality monitoring instrumentation with a focus on oil and gas industry related contamination.",
+      "highlights": [
+        "Development of open-hardware water quality monitoring tools with a focus on affordability and ease of use..",
+        "Collaboration with community development and monitoring methods fellows to create activities to engage communities in data-collection and interpretation.",
+        "Documentation of the relationships between common water-quality measures and oil and gas pollution"
+      ]
+    },    
+    {
       "company": "Providence Children's Museum",
       "position": "Maker Specialist",
       "website": "http://www.childrenmuseum.org/",
@@ -90,9 +117,9 @@
       "endDate": "Present",
       "summary": "Documentation and development of hands-on building projects for kids ages 5-11 in a museum makerspace setting.",
       "highlights": [
-        "Developed hands-on, building projects to work in the context of a children's museum makerspace.",
-        "Ran prototype workshops in collaboration with museum staff.",
-        "Produced project documentation and ran trainings for museum staff."
+        "Develop hands-on, building projects to work in the context of a children's museum makerspace.",
+        "Run prototype workshops in collaboration with museum staff.",
+        "Produce project documentation and ran trainings for museum staff."
       ]
     },
     {
@@ -185,7 +212,7 @@
         "Mentoring",
         "Project documentation",
         "Workshop and curriculum creation",
-        "Proogram and experience design"
+        "Program and experience design"
       ]
     },{
       "name": "Teaching",
@@ -225,7 +252,6 @@
         "Non-Profit Bookkeeping/Financial Management",
         "Project management",
         "Staff mentorship",
-        "Proogram and experience design",
         "Communication"
       ]
     }
