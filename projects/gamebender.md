@@ -11,5 +11,5 @@ labels:
   - Design
   - Creative Learning
   - Project Management
-summary: GameBender.
+summary: GameBender is a radical new game console, where you modify ("bend") games while you play them. It unleashes wild creativity during gameplay, and allows a path into coding that looks more like a party or an art class and less like homework.
 ---
