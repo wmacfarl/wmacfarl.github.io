@@ -2,4 +2,8 @@
 # Provide front matter so Jekyll processes this file as SASS.
 ---
 
+li {
+  page-break-inside: avoid;
+}
+
 // Put your custom CSS for printing pages here.
