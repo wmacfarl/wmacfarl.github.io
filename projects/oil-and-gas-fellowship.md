@@ -13,5 +13,5 @@ labels:
   - Civic Science
   - Design
   - Documentation
-summary: Design and documentation of low-cost, DIY water-quality measurement tools and techniques for investigating oil and gas industry related contamination. 
+summary: Design and documentation of open-hardware tools and techniques for investigating oil and gas industry related water contamination. 
 ---
