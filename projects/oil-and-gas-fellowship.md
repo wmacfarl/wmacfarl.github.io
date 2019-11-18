@@ -13,5 +13,5 @@ labels:
   - Civic Science
   - Design
   - Documentation
-summary: Design and documentation of low-cost, DIY water-quality measurement tools for investigating oil and gas industry related contamination.  Work was done as part of a "fellowship trio", in collaboration with a "monitoring methods fellow" and "community fellow." 
+summary: Design and documentation of low-cost, DIY water-quality measurement tools and techniques for investigating oil and gas industry related contamination. 
 ---
