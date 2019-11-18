@@ -10,9 +10,7 @@ date: 2019-09-01
 labels:
   - Arduino
   - Water quality
-  - Oil and Gas
   - Civic Science
-  - Public Lab
   - Design
   - Documentation
 summary: Design and documentation of low-cost, DIY water-quality measurement tools for investigating oil and gas industry related contamination.  Work was done as part of a "fellowship trio", in collaboration with a "monitoring methods fellow" and "community fellow." 
