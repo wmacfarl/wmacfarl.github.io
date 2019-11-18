@@ -11,7 +11,7 @@ labels:
   - Design
   - Creative Learning
   - Project Management
-summary: GameBender is a radical new game console, where you modify ("bend") games while you play them.
+summary: UI/UX and curriculum design for a set of playful coding tools built on top of Scratch.
 ---
 
 <img class="ui image" src="../images/gamebender-header-image.jpg">
