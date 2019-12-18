@@ -240,8 +240,9 @@
       "level": "",
       "keywords": [
         "Unity/C#",
-        "Processing/Java",
-        "P5.js/Javascript",
+        "Java",
+        "HTML/CSS/Javascript",
+        "Processing/P5.js",
         "Arduino/Micro:Bit/Raspberry Pi"
       ]
     },
