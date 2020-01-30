@@ -156,10 +156,8 @@
         "Developed project documentation and workshop curriculum supporting the building and use of these tools."
       ]
     }
-  ],
-  "volunteer": [
     {
-      "organization": "MOS Architects",
+      "company": "MOS Architects",
       "website": "http://mos-office.net",
       "position": "Software Developer",
       "startDate": "2006-01-01",
@@ -170,6 +168,9 @@
         "Developed a combination public-face/private collaboration tool/website to facillitate information sharing between collaborators and the public."
       ]
     }
+  ],
+  "volunteer": [
+    
   ],
   "awards": [
     {
