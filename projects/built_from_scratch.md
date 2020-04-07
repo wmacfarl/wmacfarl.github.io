@@ -21,4 +21,4 @@ While many resources and tutorials exist for beginner programmers, they tend to 
 
 By watching a step-by-step walk-through and discussion of the process of both designing and creating a medium-scale, complex project, viewers can learn not only how to produce code that does specific things but how to think about this code in the context of larger projects and goals.
 
-[Watch it here!](https://www.builtfromscratch.net)
+[Watch it here!](http://www.builtfromscratch.net)
