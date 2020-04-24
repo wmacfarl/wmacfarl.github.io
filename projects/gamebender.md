@@ -5,10 +5,11 @@ image: images/gamebender.png
 title: GameBender	
 permalink: projects/gamebender	
 # All dates must be YYYY-MM-DD format!	
-date: 2019-07-01	
+date: 2020-04-01	
 labels:	
   - Scratch	
-  - Design	
+  - UI/UX Design	
+  - React/JavaScript
   - Creative Learning	
   - Project Management	
 summary: UI/UX, curriculum design, misecellaneous programming and beta test management for a set of playful coding tools built on top of Scratch.	
