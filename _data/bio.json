@@ -89,16 +89,16 @@
   "work": [
     {
       "company": "JoyLabz",
-      "position": "Designer/Producer",
-      "website": "https://www.gamebender.com/",
+      "position": "Engineer/UX Researcher",
+      "website": "https://www.joylabz.com/",
       "startDate": "2019-7-01",
       "endDate": "Present",
-      "summary": "Agile software team management, learning experience design, and UI/UX design for a kid-friendly, playful coding tool built on top of Scratch",
+      "summary": "Developing and prototyping tools for digital play, tangible computing and computational creativity.",
       "highlights": [
-        "UX design and curriculum development to promote classroom and educational use of our product",
-        "Coordinate between design and development teams to define release schedule needs and prioritize development efforts",
-        "Develop epics and user-stories defining product needs and work with development team to create tasks",
-        "Agile sprint planning and review"
+        "Prototyping playful tangible UX concepts",
+        "Designing and developing low-floor creative-coding tools",
+        "Exploring and developing sample-project space for creative tools in the form of software, building guides, tutorials, etc",
+        "Small-team scoping and project management"
       ]
     },
      {
