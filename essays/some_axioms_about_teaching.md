@@ -7,46 +7,41 @@ date: 2017-09-08
 labels:
 ---
 
-[This document began its life as a "Statement of Teaching Philosophy" for a fellowship application and has undergone some ongoing revision since then.  Enough of this original impetus shines through in the tone and the focus on myself and personal experience that this genesis is worth acknowledging, but I think the piece of writing is interesting and valuable enough to stand on its own as something distinct from a personal sales-pitch so I include it here.]
-
-I began teaching and designing learning spaces and communities for very pragmatic reasons -- I wanted to work with young people in education but I couldn’t find existing teaching environments designed around the kinds of teaching I wanted to do.   I wanted to create a space for hands-on, self-directed, playful, project-based learning, a space for kids  where they could learn in the ways that I found myself learning best in -- by playing, experimenting, hanging out, chatting, and tinkering with ideas and objects until I knew what to do with them and I could get them to do what I wanted.  
-
-**You Learn to Teach the Same Way You Learn Everything Else: By Doing It**
-
-Over the course of my career nothing has changed fundamentally about this vision or philosophy, but I have become incalculably better at realizing it.  Teaching isn’t something that you think about and analyze and solve, it’s something that you do and learn from doing, over and over again.  You develop tools, intuitions and heuristics, and you get better and better at recognizing when to use them.  You start to be able to recognize certain patterns of thinking and problem solving, guess when an explanation should be concrete or abstract, develop a toolbox of useful analogies and comparisons, and see the difference between confusion and anxiety when both cause your students to have similar difficulties but require different interventions.  
-
-You develop skill at teaching in the same way that you develop skill at any other craft -- through thoughtful practice and integrating the lessons of experience with your theory, allowing the theory to grow and bend as you do so.  
-
-**The Teacher Helps, but the Student Does the Learning.**
-
-Teaching is complicated.  As a teacher my job is to synthesize a large number of interpersonal interactions, my own content area expertise and my own reflection on the ongoing learning and community building process of the collection of students that I’m working with and use all of this information to design communication strategies and learning experiences that work in the moment.  But regardless of what I do, regardless of how well I design my classroom or how carefully I pick readings and projects, it’s actually my students that do hard work of interpreting and organizing information and turning it into knowledge and understanding.  Learning is hard work, but it’s also exciting — my goal as a teacher is to help students find the excitement and push through the difficult.  I try to create spaces where students can be ambitious, curious, and resilient, where they are encouraged to develop big goals, and where they can make incremental progress on those goals, learning enough from successive failures so that they can succeed. 
-
-**Teaching Always Happens Somewhere.**
-
-All teaching, whether formal or informal, happens in a place with a context.  Classes happen in schools which exist in districts, neighborhoods, cities, and societies.  Afterschool programs, clubs, community centers and social circles host communities of practice where people can teach and learn and work together.  All of these contexts bring additional ideas, attitudes and structures into every interaction between a teachers and students.  Because of this, context matters more than almost anything else when thinking about how you should approach teaching.  Asking for help from a friend is different from going to a class.  Middle school students, on the whole, have a different relationship to teachers then graduate students, and adults taking an evening class have a different relationship to time and responsibility than full-time students.  
-
-Teaching context isn’t just defined by what’s happening at the school, though.  Differences between where students are from are at least as important as ones between where students are going.  Students from different backgrounds will bring their experiences into your classroom and these experiences will affect how they relate to you, to each other, and to the topics you are trying to teach.Through all of this difference, though, the teacher’s responsibility is the same -- to know where your students are coming from, to take their needs and interests seriously, to recognize the ways you can learn from them and they can learn from each other in addition to the ways they can learn from you, and to respect the time and attention they invest in your class by making it worthwhile and relevant to their needs. 
-
-**The Structure of the Context Defines the Learning That Can Happen Within It.**
-
-Because context matters so much, my work as an educator has been as much about creating teaching and learning spaces as it has been about being a teacher.  Teaching is nothing more or less than a series of interpersonal interactions between teachers and students and among students.  My major goal any time I am working with a group of students is to create a space where they can seek out mentorship, inspiration, and collaboration.  The structure of a learning space, whether it’s a school, a classroom, a community center, or a website, defines the kinds of relationships that can form around and within it.  Students can’t trust authority figures that seem to disregard their interests and experiences and can’t develop strong peer connections in environments that prioritize the voice of the teacher.  I learn about my students and what they want and need by giving them the opportunity to design aspects of their classes, schedules, goals and projects.  These opportunities for self-expression also create an environment of trust and respect where students feel open to inspiration and willing to take personal and creative risks knowing that their efforts, contributions, and curiosity will be valued.
-
-**The Best Way to Learn Something is to Try Something**
-
-The fundamental traits involved in learning are curiosity and resilience.  Curiosity is an interest in understanding the unknown.  Resilience combines comfort with failure and an interest in success.  Curiosity leads people to seek out new ideas and experiences, ask interesting questions, and try new things.   Resilience helps them continue to do so when they encounter difficulties and things inevitably go wrong.  These traits are learnable habits of thinking, and they cut across all disciplines and areas of study.  And this process of trying things, doing things, making things and allowing your projects to guide your study and inquiry is the best way to practice and develop these habits.
-
-Education is frequently thought of and described as preparation work — “by going to school now and learning things that you’ll need later you are setting yourself up for a successful future life”.  This sets up a dichotomy between the dreary but necessary process of “getting an education” and the exciting process of moving on to the “real world” after you’re done.  But in fact the whole world is real, you never stop learning, it doesn’t make sense to wait until you’ve learned everything you need to know before your start taking actions because you’ll never get there, and everything you do involves a mixture of learning new skills and using the ones you have.  
-
 **By Making Things, We Learn What We Can Make Things**
 
-There is something particularly powerful in the experience of “making things,” particularly making projects that are designed to serve some purpose in the world.  If you’ve made something for a purpose you can test it out, see if it succeeds or fails at the purpose, and when it fails you can look closely at how and why and use your observations to redesign it.  The real world is extremely rich and complicated, and in being so complicated it’s very demanding.  Regardless of how much research or preparation or theorizing you do, when you actually roll your sleeves up and start building things, something will inevitably go wrong, and you will fail again and have to try again.  Maybe your understanding of the world was wrong, that things were true that you thought were false, false that you thought were true.  Maybe things that you didn’t think would matter are actually important.  Maybe you just screwed it on backwards.  You’ll take what you learned from this process, think, sketch, chat, redesign and try again and learn that if you pay attention to your failures the world will teach you what you need to know to succeed.  The process of making allows us to see the steps that go into the production of complex human artifacts, be they furniture, cars, computer programs, or political systems, and allows us to see that this complexity is built out of simple parts.  By building things ourselves we can see how they come together and see how a set of simple well-designed parts can be put together to create a complex whole.
+Furniture, software, political systems—anything you build drags theory into
+contact with reality.  Reality is generous with feedback -- each broken prototype lights a path to the next version and proves complexity
+is just lots of simple parts playing nicely together.  Learning isn't something you do to get ready for the "real world."  The whole world is real and you never stop learning.
+
+**Teaching Always Happens Somewhere**
+
+Every lesson sits inside layers—classroom, institution, neighborhood, society.
+Those layers tint every interaction.  Middle-schoolers, grad students, adult
+night-owls: different clocks, different stakes.  Backgrounds and languages shape
+how learners meet the material, the teacher, and each other.
+
+**Context Shapes Possibility**
+
+Space design *is* pedagogy.  Layouts, schedules, rules, and tools either invite
+voice or smother it.  When students help pick readings, map projects, and move
+furniture, the room says, *We trust you.*  Trust breeds risk-taking, and risk
+breeds real work.
+
+**The Teacher Helps, but the Student Does the Learning**
+
+Teaching is complicated. A teacher msynthesizes interpersonal relationships, community-building, content-area expertise to figure out how to communicate ideas and design learning experiences.  But in the end, no matter how hard they work, or how clever the lesson or project, it's the students who do the hard work of interpreting and organizing information and turning it into knowledge and understanding. 
+Teaching Always Happens Som
 
 **Teaching Young People Is Childcare**
 
-Early in my education career I thought of myself as a “teacher” and I believed that my job was to convey knowledge and information.  Government and regulatory bodies separate the idea of education from the idea of childcare,  but the most important thing a teacher of young-people does with kids is care for them.  As a young teacher I resented the informal childcare aspects of working with children -- hanging out, playing games, eating lunch, making snacks -- but over the years I found that the most important learning and development in our programs happens during informal interactions through care, attention, and love.   A learning-environment needs to be physically and emotionally safe and filled with kind, caring, and inspiring kids and grown-ups.
+Regulations may split “education” from “childcare,” kids don’t.  Snacks,
+laughter, quiet check-ins—these are not downtime; they are the ground floor of
+learning.  Kids learn when they are safe, comfortable, and cared for and they
+take risks when they trust the grown-ups enough to know they'll be OK.
 
-**Everything Matters**
+**You Learn to Teach the Same Way You Learn Everything Else: By Doing It**
 
-Every aspect of a learning environment communicates something to the students that use it.  The conversations we have, the structures we produce, even the rooms we design can communicate belonging or alienation, trust or anxiety, excitement or drudgery.  It’s not enough to tell our students that we want them to succeed, be ambitious, be creative, curious, kind, and thoughtful, we need to communicate these intentions deliberately with every aspect of the design of our teaching and learning communities.  
-
-My work with Parts and Crafts has been an incremental and experimental attempt to design a space for self-directed, creative learning.  We communicate our goal that young people be self-directed and self-motivated by asking them about their interests and demanding that they participate in the process of creating plans and schedules for themselves and the community.  We fill the space with interesting materials and objects for them to use and the tools they need to make use  of them and so we tell them that we want them to try things out and make things and that we trust them to do so.  Most of all we communicate the value of open-mindedness,  curiosity and experimentation by continually trying new things and  learning what we can from the our experiences and each other.
+Teaching is a craft.  Repetition sharpens instinct: when to zoom
+out, when to drop an analogy, how to see the line between confusion and
+anxiety.  Experience bends theory; theory steers the next attempt.  Round and
+round, better and better.
