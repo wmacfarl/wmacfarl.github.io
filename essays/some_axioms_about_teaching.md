@@ -6,6 +6,7 @@ title: Teaching and Learning Axioms
 date: 2017-09-08
 labels:
 ---
+[These axioms were part of a presentation and panel discussion on "Bringing Making into Learning" at the Roxbury Innovation Center on 2/8/2017]
 
 **By Making Things, We Learn What We Can Make Things**
 
