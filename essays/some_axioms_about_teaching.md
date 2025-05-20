@@ -17,9 +17,10 @@ is just lots of simple parts playing nicely together.  Learning isn't something 
 **Teaching Always Happens Somewhere**
 
 Every lesson sits inside layers—classroom, institution, neighborhood, society.
-Those layers tint every interaction.  Middle-schoolers, grad students, adult
-night-owls: different clocks, different stakes.  Backgrounds and languages shape
-how learners meet the material, the teacher, and each other.
+Those layers tint every interaction.  Middle-schoolers have different relationships
+to their peers, teachers, and school than grad students.  Adults will learn differently
+at a community art center than at a professional development workshop.  Everyone shows up
+with their own expectations based on where they are and where they've been.
 
 **Context Shapes Possibility**
 
@@ -44,5 +45,4 @@ take risks when they trust the grown-ups enough to know they'll be OK.
 
 Teaching is a craft.  Repetition sharpens instinct: when to zoom
 out, when to drop an analogy, how to see the line between confusion and
-anxiety.  Experience bends theory; theory steers the next attempt.  Round and
-round, better and better.
+anxiety.  Experience bends theory; theory steers the next attempt.
